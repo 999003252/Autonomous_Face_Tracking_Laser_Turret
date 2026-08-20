@@ -80,9 +80,19 @@ Known issue: minor tracking bugs around sideburns/beard edges.
 
 **Videos:**
 
-- [`demo-laser-tracking-face.mp4`](media/demo-laser-tracking-face.mp4) — laser locking onto and following a face in real time.
-- [`demo-vision-loop-screen-recording.mp4`](media/demo-vision-loop-screen-recording.mp4) — screen capture of the OpenCV vision loop, showing zone tracking and laser detection overlays.
-- [`demo-full-desk-setup.mp4`](media/demo-full-desk-setup.mp4) — full setup view: turret, Arduino, and laptop running the control loop together.
+**Laser locking onto and following a face in real time:**
+
+<!-- DROP demo-laser-tracking-face.mp4 HERE — drag the file into this exact spot in the GitHub web editor -->
+
+**Screen capture of the OpenCV vision loop, showing zone tracking and laser detection overlays:**
+
+<!-- DROP demo-vision-loop-screen-recording.mp4 HERE — drag the file into this exact spot in the GitHub web editor -->
+
+**Full setup view: turret, Arduino, and laptop running the control loop together:**
+
+<!-- DROP demo-full-desk-setup.mp4 HERE — drag the file into this exact spot in the GitHub web editor -->
+
+*(Raw video files are also archived in [`media/`](media/) for direct download.)*
 
 ## Parts List (~$120 total)
 
